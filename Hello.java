@@ -11,6 +11,6 @@ package buatgit;
  */
 public class Hello {
     public static void main(String[]args){
-        System.out.println("RZP: Aplikasi Java");
+        System.out.println("RZP: Aplikasi Java  Raihan 2021");
     }
 }
